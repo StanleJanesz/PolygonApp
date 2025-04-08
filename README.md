@@ -2,7 +2,9 @@
 
 A powerful and intuitive polygon editor that lets users create, manipulate, and constrain polygon shapes with ease.
 
-![Polygon Editor Screenshot](https://github.com/user-attachments/assets/c35b7a6b-ef20-4d0f-bd28-0530785a644a)
+
+https://github.com/user-attachments/assets/2b1fb948-3cb4-4cc2-ab08-ce82ea9a6051
+
 
 ## ✨ Features
 
@@ -32,7 +34,6 @@ _See the screenshot above or try it yourself by cloning the repo._
 ## 🚀 Getting Started
 
 Clone the repo and open the project in your preferred development environment.  
-Coming soon: a full build & usage guide.
 
 ```bash
-git clone https://github.com/your-username/polygon-editor.git
+git clone https://github.com/StanleJanesz/polygon-editor.git
